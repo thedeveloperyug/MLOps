@@ -1,0 +1,7 @@
+*start
+*create ant
+*put an ant in entry
+*is it final state ?
+*-> no -> put an ant in entry
+*->yes->Demon Activities
+*Evoporate pheromone
